@@ -1,0 +1,18 @@
+{
+    "name": "zymion/dummy",
+    "type": "library",
+    "description": "Dummy library",
+    "homepage": "https://github.com/RafLermitte/dummy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raf Lermitte",
+            "email": "info@zymion.be",
+            "homepage": "https://www.zymion.be",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    }
+}
